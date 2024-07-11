@@ -5,7 +5,8 @@ Chapter 1. Getting Statrted
 
 * [Getting Started](https://dev.to/danielmwandiki/getting-started-with-rust-2c3l)
 
-* [Hello World]()
+* [Hello World](https://dev.to/danielmwandiki/hello-world-in-rust-2kbn)
+  
 Chapter 2. Programming a Guessing Game
 
 Chapter 3. Common Programming Concepts
