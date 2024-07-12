@@ -8,6 +8,7 @@ Chapter 1. Getting Statrted
 * [Hello World](https://dev.to/danielmwandiki/hello-world-in-rust-2kbn)
   
 Chapter 2. Programming a Guessing Game
+* [Guessing Game](https://github.com/DanielMwandiki/Rust/tree/main/chapter_2/guessing_game)
 
 Chapter 3. Common Programming Concepts
 
