@@ -11,8 +11,13 @@ Chapter 2. Programming a Guessing Game
 * [Guessing Game](https://github.com/DanielMwandiki/Rust/tree/main/chapter_2/guessing_game)
 
 Chapter 3. Common Programming Concepts
+* [Variables](https://dev.to/danielmwandiki/variables-and-mutability-4700)
+* [Data Types](https://dev.to/danielmwandiki/data-types-1dp3)
+* [Functions](https://dev.to/danielmwandiki/functions-in-rust-2egi)
+* [Control Flow](https://dev.to/danielmwandiki/conditions-and-control-flow-1cph)
 
 Chapter 4. Understanding Ownership
+* [Ownership](https://dev.to/danielmwandiki/rust-reference-and-ownership-31ic)
 
 Chapter 5. Using Structs to Structure Related Data
 
