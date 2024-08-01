@@ -1,6 +1,6 @@
 #[derive(Debug)]
 
-/*struct Rectangle{
+struct Rectangle{
     height: u32,
     width:u32,
 }
@@ -57,7 +57,7 @@ fn main() {
   
   println!("{}", p.x());
 }
-  */
+
 
 //test 2
 
